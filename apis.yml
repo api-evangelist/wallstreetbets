@@ -1,0 +1,32 @@
+aid: wallstreetbets
+name: WallstreetBets
+description: "WallstreetBets Stock Comments Sentiment Analysis"
+url: https://dashboard.nbshare.io/apps/reddit/api/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Finance"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Finance
+  - Public APIs
+apis:
+  - name: WallstreetBets
+    description: "WallstreetBets Stock Comments Sentiment Analysis"
+    humanURL: https://dashboard.nbshare.io/apps/reddit/api/
+    baseURL: https://dashboard.nbshare.io/apps/reddit/api/
+    tags:
+      - Finance
+    properties:
+      - type: Documentation
+        url: https://dashboard.nbshare.io/apps/reddit/api/
+common:
+  - type: Website
+    url: https://dashboard.nbshare.io/apps/reddit/api/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
