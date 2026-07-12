@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://dashboard.nbshare.io/apps/reddit/api/
 common:
+  - type: DomainSecurity
+    url: security/wallstreetbets-domain-security.yml
   - type: Website
     url: https://dashboard.nbshare.io/apps/reddit/api/
   - type: PublicAPIsListing
