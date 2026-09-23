@@ -1,0 +1,30 @@
+# Front Door AI Index — wallstreetbets — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: wallstreetbets
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: dashboard.nbshare.io
+  final_host: tradestie.com
+  ownership: own
+  owner: wallstreetbets
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 25
+  host_score: 25
+  density: 21.57
+  words: 1159
+  tiers:
+    agentic: 1
+    core: 23
+    model: 1
+  ambiguous: 12
+  top_terms:
+    AI: 22
+    smart: 9
+    intelligence: 3
+    GPT: 1
+    machine learning: 1
+    prompts: 1
