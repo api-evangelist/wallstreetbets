@@ -41,7 +41,6 @@ apis:
   - name: WallstreetBets
     description: "WallstreetBets Stock Comments Sentiment Analysis"
     humanURL: https://dashboard.nbshare.io/apps/reddit/api/
-    baseURL: https://dashboard.nbshare.io/apps/reddit/api/
     tags:
       - Finance
     properties:
