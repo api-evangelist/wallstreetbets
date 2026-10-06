@@ -29,7 +29,7 @@ description: "WallstreetBets Stock Comments Sentiment Analysis"
 url: https://dashboard.nbshare.io/apps/reddit/api/
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Finance"
 x-tier: 3
@@ -47,6 +47,8 @@ apis:
       - type: Documentation
         url: https://dashboard.nbshare.io/apps/reddit/api/
 common:
+  - url: https://tradestie.com/news/
+    type: Blog
   - type: DomainSecurity
     url: security/wallstreetbets-domain-security.yml
   - type: Website
